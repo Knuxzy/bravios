@@ -116,5 +116,44 @@ export const CHARACTER_CATALOG = [
         "frame": "idle"
       }
     }
+  },
+  {
+    "id": "destroyer",
+    "name": "Destroyer",
+    "portrait": "gameplay/characters/destroyer/images/portrait.png",
+    "views": {
+      "side": {
+        "poses": {
+          "idle": "gameplay/characters/destroyer/images/platform/idle.png",
+          "side": "gameplay/characters/destroyer/images/platform/side.png",
+          "run": "gameplay/characters/destroyer/images/platform/run.png",
+          "jump": "gameplay/characters/destroyer/images/platform/jump.png",
+          "victory": "gameplay/characters/destroyer/images/platform/victory.png",
+          "land": "gameplay/characters/destroyer/images/platform/land.png",
+          "ride": "gameplay/characters/destroyer/images/platform/ride.png",
+          "run-1": "gameplay/characters/destroyer/images/platform/run-1.png",
+          "run-2": "gameplay/characters/destroyer/images/platform/run-2.png",
+          "run-3": "gameplay/characters/destroyer/images/platform/run-3.png",
+          "run-4": "gameplay/characters/destroyer/images/platform/run-4.png"
+        },
+        "frame": "side"
+      },
+      "front": {
+        "poses": {
+          "idle": "gameplay/characters/destroyer/images/platform/idle.png",
+          "side": "gameplay/characters/destroyer/images/platform/side.png",
+          "run": "gameplay/characters/destroyer/images/platform/run.png",
+          "jump": "gameplay/characters/destroyer/images/platform/jump.png",
+          "victory": "gameplay/characters/destroyer/images/platform/victory.png",
+          "land": "gameplay/characters/destroyer/images/platform/land.png",
+          "ride": "gameplay/characters/destroyer/images/platform/ride.png",
+          "run-1": "gameplay/characters/destroyer/images/platform/run-1.png",
+          "run-2": "gameplay/characters/destroyer/images/platform/run-2.png",
+          "run-3": "gameplay/characters/destroyer/images/platform/run-3.png",
+          "run-4": "gameplay/characters/destroyer/images/platform/run-4.png"
+        },
+        "frame": "idle"
+      }
+    }
   }
 ];
